@@ -10,6 +10,9 @@
 >you@pc:~/cedict-to-sqlite$ cd ../
 >you@pc:~/cedict-to-sqlite$ npm	install && npm run dev
 >```
+> Visit http://localhost:8090 in your favourite browser
+>
+>![image](cedict-to-sqlitei.png)
 
 > # Dev enviroment
 > NPM 6.7.0
