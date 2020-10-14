@@ -12,7 +12,7 @@
 >```
 > Visit http://localhost:8090 in your favourite browser
 >
->![image](cedict-to-sqlitei.png)
+>![image](cedict-to-sqlite.png)<!-- .element height="90%" width="90%" -->
 
 > # Dev enviroment
 > NPM 6.7.0
